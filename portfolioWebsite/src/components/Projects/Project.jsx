@@ -1,7 +1,7 @@
 import React from 'react'
-import AIChatbot from '../../assets/ai-chatbot.PNG'
-import CurrencyImg from '../../assets/curr-convert.PNG'
-import GameImg from '../../assets/game-img.PNG'
+import AIChatbot from '../../assets/ai-chatbot.png'
+import CurrencyImg from '../../assets/curr-convert.png'
+import GameImg from '../../assets/game-img.png'
 import { Link } from 'react-router-dom'
 function Project() {
  

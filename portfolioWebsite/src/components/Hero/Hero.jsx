@@ -1,6 +1,6 @@
 import React from 'react'
-import ProfileImage from '../../assets/profile-img.PNG'
-import ResumeImg from '../../assets/resume-img.PNG'
+import ProfileImage from '../../assets/profile-img.png'
+import ResumeImg from '../../assets/resume-img.png'
 
 
 
